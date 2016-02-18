@@ -1,8 +1,0 @@
-@test
-public class Runner
-{
-int age;
-int fuel;
-int quotient;
-
-System.out.print("Age of Runner:");
